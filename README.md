@@ -1,0 +1,1 @@
+这是一个非常简单的关于Swift+RAC的例子只用到了很基础的Racsignal 和 RacCommand 并且里面的MVVM用法也是很幼稚,总之是一个初步的实验的demo代码 后面跟随着学习我会继续更新和完善这个小demo
